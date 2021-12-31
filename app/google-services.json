@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759520617947",
+    "firebase_url": "https://bubbleeasy-8b8cd.firebaseio.com",
+    "project_id": "bubbleeasy-8b8cd",
+    "storage_bucket": "bubbleeasy-8b8cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759520617947:android:a7ec3e5ec95270039d73fe",
+        "android_client_info": {
+          "package_name": "com.app.bubbleeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759520617947-an6i151hc8o78c43qhara2areggh2r19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4WRYSFDwxHEJxiU-6wDNPAv1MWSZsHng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759520617947-an6i151hc8o78c43qhara2areggh2r19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "759520617947-r7ljl59lntkpcgcdbf9pt3p12s9c2gjh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bubbleeasy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
